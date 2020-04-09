@@ -11,4 +11,6 @@ A curated list of libraries, softwares, simulators for the beginners in Robotics
 * [Perception](#robotics-perception)
 * [Cognition](#robotics-cognition)
 * [Motion Planning](#Motion-planning)
+* [Simulataneous Localization & Mapping](#SLAM)
+* [ROS](#Robotic-Operating-System)
 
