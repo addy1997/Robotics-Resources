@@ -14,5 +14,7 @@ A curated list of libraries, softwares, simulators for the beginners in Robotics
 * [Simulataneous Localization & Mapping](#SLAM)
 * [ROS](#Robotic-Operating-System)
 * [Other essential packages and libraries](#other-essential-packages-and-libraries)
+* [Contributing](#contributing)
+
 
 
