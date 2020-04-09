@@ -13,7 +13,7 @@ A curated list of libraries, softwares, simulators for the beginners in Robotics
 * [Motion Planning](#Motion-planning)
 * [Simulataneous Localization & Mapping](#SLAM)
 * [ROS](#Robotic-Operating-System)
-* [Some important repositories](#some-important-repositories)
+* [Some cool repositories](#some-cool-repositories)
 * [Other essential packages and libraries](#other-essential-packages-and-libraries)
 * [Usage & Contribution](#usage-and-contribution)
 * [Code Of Conduct](#code-of-conduct)
