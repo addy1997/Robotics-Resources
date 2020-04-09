@@ -1,6 +1,6 @@
 # Robotics-Resources
 
-A curated list of libraries, softwares, simulators for the beginners in Robotics.
+A curated list of libraries, softwares, simulators for robotics.
 
 
 #### Table of Contents
