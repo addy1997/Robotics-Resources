@@ -19,6 +19,13 @@ A curated list of libraries, softwares, simulators for the beginners in Robotics
 * [Code Of Conduct](#code-of-conduct)
 
 
+## [Libraries](#Robotics-Resources)
+
+###### Python-based libraries
+
+* 
+
+
 
 
 
