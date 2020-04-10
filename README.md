@@ -23,7 +23,8 @@ A curated list of libraries, softwares, simulators for robotics.
 
 ###### Python-based libraries
 
-* 
+* Pybotics - python based library for roboti kinematics and calibration. It is mainly designed to work on [Denavit–Hartenberg parameters](https://en.wikipedia.org/wiki/Denavit%E2%80%93Hartenberg_parameters#Modified_DH_parameters) principle. [[github](https://github.com/nnadeau/pybotics) ![Pybotics](https://img.shields.io/github/stars/nnadeau/pybotics.svg?style=flat&label=Star&maxAge=86400)]
+
 
 
 
