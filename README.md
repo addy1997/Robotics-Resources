@@ -25,6 +25,12 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * Pybotics - python based library for roboti kinematics and calibration. It is mainly designed to work on [Denavit–Hartenberg parameters](https://en.wikipedia.org/wiki/Denavit%E2%80%93Hartenberg_parameters#Modified_DH_parameters) principle. [[github](https://github.com/nnadeau/pybotics) ![Pybotics](https://img.shields.io/github/stars/nnadeau/pybotics.svg?style=flat&label=Star&maxAge=86400)]
 
+* PyBullet - a python module for physics simulation of robots, loading URDF, SDF, MJCF files etc.[[github](https://github.com/bulletphysics/bullet3) ![PyBullet](https://img.shields.io/github/stars/bulletphysics/bullet3.svg?style=flat&label=Star&maxAge=86400)] 
+
+* sparse-rrt 0.0.2 - This package is based on Sparse-RRT project [sparse_rrt](https://bitbucket.org/pracsys/sparse_rrt/).The main purpose of this work is to allow running Sparse-RRT planner in python environment.[[github](https://github.com/olegsinyavskiy/sparse_rrt) ![sparse_rrt](https://img.shields.io/github/stars/olegsinyavskiy/sparse_rrt.svg?style=flat&label=Star&maxAge=86400)]
+
+
+
 
 
 
