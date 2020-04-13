@@ -6,12 +6,11 @@ A curated list of libraries, softwares, simulators for robotics.
 
 #### Table of Contents
 * [Libraries](#libraries)
-* [Simulators](#simulators)
 * [Visualization](#Visualization)
 * [Control & Vision](#robotics-vision)
 * [Perception](#robotics-perception)
 * [Motion Planning](#Motion-planning)
-* [Graphics Engine/ Environments](#graphics-engine)
+* [Simulators/ Graphics Engine/ Environments](#graphics-engine)
 * [Some cool repositories](#some-cool-repositories)
 * [Other essential packages and libraries](#other-essential-packages-and-libraries)
 * [Usage & Contribution](#usage-and-contribution)
@@ -68,6 +67,8 @@ A curated list of libraries, softwares, simulators for robotics.
 ## [Graphics Engine/ Environments](#Robotics-Resources)
 
 * OpenRave( Open Robotics Automation Virtual Environment) - it focuses on developing and testing motion planning algorithms for robotic applications. It is available in C++, Python. [Documentation](http://openrave.org/docs/latest_stable/)
+
+* Webots - It provides a complete development environment to model, program and simulate robots, vehicles and biomechanical systems.[[github](https://github.com/cyberbotics/webots)![Webots](https://img.shields.io/github/stars/cyberbotics/webots.svg?style=flat&label=Star&maxAge=86400)]
 
 ## [Some cool repositories](#Robotics-Resources)
 
