@@ -65,6 +65,10 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * MPL - Motion Planning Kit (MPK) is a C++ library and toolkit for developing single- and multi-robot motion planners.[Documentaion](http://ai.stanford.edu/~mitul/mpk/)
 
+* Robotics Library - The Robotics Library (RL) is a self-contained C++ library for robot kinematics, motion planning and control. It covers mathematics, kinematics and dynamics, hardware abstraction, motion planning, collision detection, and visualization.[Documentation](https://www.roboticslibrary.org/)
+
+* 
+
 
 
 
