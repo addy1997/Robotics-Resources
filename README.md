@@ -15,7 +15,7 @@ A curated list of libraries, softwares, simulators for robotics.
 * [Some cool repositories](#some-cool-repositories)
 * [Other essential packages and libraries](#other-essential-packages-and-libraries)
 * [Usage & Contribution](#usage-and-contribution)
-* [Graphics Engine](#graphics-engine)
+* [Graphics Engine/ Environments](#graphics-engine)
 * [Code Of Conduct](#code-of-conduct)
 
 
