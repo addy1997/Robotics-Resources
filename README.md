@@ -61,7 +61,11 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * sparse-rrt 0.0.2 - This package is based on Sparse-RRT project [sparse_rrt](https://bitbucket.org/pracsys/sparse_rrt/).The main purpose of this work is to allow running Sparse-RRT planner in python environment.[[github](https://github.com/olegsinyavskiy/sparse_rrt) ![sparse_rrt](https://img.shields.io/github/stars/olegsinyavskiy/sparse_rrt.svg?style=flat&label=Star&maxAge=86400)]
 
-* 
+* OMPL - OMPL, the Open Motion Planning Library, consists of many state-of-the-art sampling-based motion planning algorithms. OMPL itself does not contain any code related to, e.g., collision checking or visualization.[[github](https://github.com/ompl/ompl) ![OMPL](https://img.shields.io/github/stars/ompl/ompl.svg?style=flat&label=Star&maxAge=86400)]
+
+* MPL - Motion Planning Kit (MPK) is a C++ library and toolkit for developing single- and multi-robot motion planners.[Documentaion](http://ai.stanford.edu/~mitul/mpk/)
+
+
 
 
 
