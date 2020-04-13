@@ -52,7 +52,7 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * Pyglet - a library primarily used for game development and computer graphics applications.[[github](https://github.com/pyglet/pyglet) ![Pyglet](https://img.shields.io/github/stars/pyglet/pyglet.svg?style=flat&label=Star&maxAge=86400)]
 
-* PyOpenGL - a cross platform library based on python and OpenGL. [[website](http://pyopengl.sourceforge.net/)]
+* PyOpenGL - a cross platform library based on python and OpenGL. [[github](https://github.com/mcfletch/pyopengl) ![PyOpenGL](https://img.shields.io/github/stars/mcfletch/pyopengl.svg?style=flat&label=Star&maxAge=86400)]
 
 * 
 
