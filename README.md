@@ -9,7 +9,6 @@ A curated list of libraries, softwares, simulators for robotics.
 * [Visualization](#Visualization)
 * [Vision](#robotics-vision)
 * [Perception](#robotics-perception)
-* [Cognition](#robotics-cognition)
 * [Motion Planning](#Motion-planning)
 * [Simulataneous Localization & Mapping](#SLAM)
 * [ROS](#Robotic-Operating-System)
@@ -38,6 +37,8 @@ A curated list of libraries, softwares, simulators for robotics.
 
 
 
+
+
 ###### C++ based libraries
 
 * MRPT - Mobile Robot Programming Toolkit (MRPT) provides C++ libraries aimed at researchers in mobile robotics and computer vision. [[github](https://github.com/MRPT/mrpt) ![mrpt](https://img.shields.io/github/stars/MRPT/mrpt.svg?style=flat&label=Star&maxAge=86400)]
@@ -45,7 +46,15 @@ A curated list of libraries, softwares, simulators for robotics.
 * Flexible collision library - this is mainly used for collision checking in 3D space in motion planning. [[github](https://github.com/flexible-collision-library/fcl) ![Flexible collision library](https://img.shields.io/github/stars/flexible-collision-library/fcl.svg?style=flat&label=Star&maxAge=86400)]
 
 
+## [Visualization](#Robotics-Resources)
 
+* VTKexamples - a library based on pyhton for collision detection, making 3D meshes etc. [[github](https://github.com/lorensen/VTKExamples) ![VTKexamples](https://img.shields.io/github/stars/lorensen/VTKExamples.svg?style=flat&label=Star&maxAge=86400)]
+
+* Pyglet - a library primarily used for game development and computer graphics applications.[[github](https://github.com/pyglet/pyglet) ![Pyglet](https://img.shields.io/github/stars/pyglet/pyglet.svg?style=flat&label=Star&maxAge=86400)]
+
+* PyOpenGL - a cross platform library based on python and OpenGL. [[website](http://pyopengl.sourceforge.net/)]
+
+* 
 
 ## [Motion Planning](#Robotics-Resources)
 
