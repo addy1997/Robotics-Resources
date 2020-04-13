@@ -67,6 +67,8 @@ A curated list of libraries, softwares, simulators for robotics.
 
 ## [Graphics Engine/ Environments](#Robotics-Resources)
 
+* OpenRave( Open Robotics Automation Virtual Environment) - it focuses on developing and testing motion planning algorithms for robotic applications. It is available in C++, Python. [Documentation](http://openrave.org/docs/latest_stable/)
+
 ## [Some cool repositories](#Robotics-Resources)
 
 ## [Other essential packages and libraries](#Robotics-Resources)
