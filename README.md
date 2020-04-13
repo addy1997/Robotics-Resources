@@ -46,6 +46,10 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * Flexible collision library - this is mainly used for collision checking in 3D space in motion planning. [[github](https://github.com/flexible-collision-library/fcl) ![Flexible collision library](https://img.shields.io/github/stars/flexible-collision-library/fcl.svg?style=flat&label=Star&maxAge=86400)]
 
+* Trajopt - is a C++ based library by UC berkeley for Motion planning, trajectory optimisation, etc. [[github](https://github.com/joschu/trajopt) ![Trajopt](https://img.shields.io/github/stars/joschu/trajopt.svg?style=flat&label=Star&maxAge=86400)]
+
+
+
 
 ## [Visualization](#Robotics-Resources)
 
