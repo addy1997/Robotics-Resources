@@ -11,7 +11,6 @@ A curated list of libraries, softwares, simulators for robotics.
 * [Perception](#robotics-perception)
 * [Motion Planning](#Motion-planning)
 * [Simulataneous Localization & Mapping](#SLAM)
-* [ROS](#Robotic-Operating-System)
 * [Some cool repositories](#some-cool-repositories)
 * [Other essential packages and libraries](#other-essential-packages-and-libraries)
 * [Usage & Contribution](#usage-and-contribution)
