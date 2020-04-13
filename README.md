@@ -7,10 +7,9 @@ A curated list of libraries, softwares, simulators for robotics.
 * [Libraries](#libraries)
 * [Simulators](#simulators)
 * [Visualization](#Visualization)
-* [Vision](#robotics-vision)
+* [Control & Vision](#robotics-vision)
 * [Perception](#robotics-perception)
 * [Motion Planning](#Motion-planning)
-* [Simulataneous Localization & Mapping](#SLAM)
 * [Some cool repositories](#some-cool-repositories)
 * [Other essential packages and libraries](#other-essential-packages-and-libraries)
 * [Usage & Contribution](#usage-and-contribution)
@@ -32,13 +31,6 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * collision - this library is mainly used for collision checking in 2D space along with pygame. [[github](https://github.com/qwertyquerty/collision) ![collision](https://img.shields.io/github/stars/qwertyquerty/collision.svg?style=flat&label=Star&maxAge=86400)]
 
-
-
-
-
-
-
-
 ###### C++ based libraries
 
 * MRPT - Mobile Robot Programming Toolkit (MRPT) provides C++ libraries aimed at researchers in mobile robotics and computer vision. [[github](https://github.com/MRPT/mrpt) ![mrpt](https://img.shields.io/github/stars/MRPT/mrpt.svg?style=flat&label=Star&maxAge=86400)]
@@ -46,8 +38,6 @@ A curated list of libraries, softwares, simulators for robotics.
 * Flexible collision library - this is mainly used for collision checking in 3D space in motion planning. [[github](https://github.com/flexible-collision-library/fcl) ![Flexible collision library](https://img.shields.io/github/stars/flexible-collision-library/fcl.svg?style=flat&label=Star&maxAge=86400)]
 
 * Trajopt - is a C++ based library by UC berkeley for Motion planning, trajectory optimisation, etc. [[github](https://github.com/joschu/trajopt) ![Trajopt](https://img.shields.io/github/stars/joschu/trajopt.svg?style=flat&label=Star&maxAge=86400)]
-
-
 
 
 ## [Visualization](#Robotics-Resources)
@@ -58,7 +48,9 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * PyOpenGL - a cross platform library based on python and OpenGL. [[github](https://github.com/mcfletch/pyopengl) ![PyOpenGL](https://img.shields.io/github/stars/mcfletch/pyopengl.svg?style=flat&label=Star&maxAge=86400)]
 
-* 
+## [Vision](#Robotics-Resources)
+
+## [Perception](#Robotics-Resources)
 
 ## [Motion Planning](#Robotics-Resources)
 
