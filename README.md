@@ -27,6 +27,7 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * PyBullet - a python module for physics simulation of robots, loading URDF, SDF, MJCF files etc.[[github](https://github.com/bulletphysics/bullet3) ![PyBullet](https://img.shields.io/github/stars/bulletphysics/bullet3.svg?style=flat&label=Star&maxAge=86400)] 
 
+* Pygame - a library for used for game development and creating objects in 2D space.[[github](https://github.com/pygame/pygame)  ![pygame](https://img.shields.io/github/stars/pygame/pygame.svg?style=flat&label=Star&maxAge=86400)]
 
 * 
 
@@ -44,6 +45,8 @@ A curated list of libraries, softwares, simulators for robotics.
 ## [Motion Planning](#Robotics-Resources)
 
 * sparse-rrt 0.0.2 - This package is based on Sparse-RRT project [sparse_rrt](https://bitbucket.org/pracsys/sparse_rrt/).The main purpose of this work is to allow running Sparse-RRT planner in python environment.[[github](https://github.com/olegsinyavskiy/sparse_rrt) ![sparse_rrt](https://img.shields.io/github/stars/olegsinyavskiy/sparse_rrt.svg?style=flat&label=Star&maxAge=86400)]
+
+* 
 
 
 
