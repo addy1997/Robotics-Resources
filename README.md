@@ -1,11 +1,11 @@
 # Robotics-Resources
+A curated list of libraries, softwares, simulators for robotics. 
+
+
 ![bubble](https://github.com/addy1997/Robotics-Resources/blob/master/robot.gif)
 
 [![Safety](https://img.shields.io/badge/safety-secure-brightgreen.svg)](https://app.gitguardian.com)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
-
-
-A curated list of libraries, softwares, simulators for robotics. 
 
 #### Note: The data in this repository is updated and accurate to the best of my knowledge. In case of any correction, deletion  or addition of information please raise an issue. A mail can also be written to [adwaitnaik2@gmail.com].
 
