@@ -1,9 +1,8 @@
 # Robotics-Resources
 
-[![Build Status](https://api.travis-ci.com/addy1997/Robotics-Resources.svg?branch=master)](https://travis-ci.com/addy1997/Robotics-Resources)
 [![Safety](https://img.shields.io/badge/safety-secure-brightgreen.svg)](https://app.gitguardian.com)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
-[![Contributions](https://img.shields.io/github/commit-activity/m/addy1997/Robotics-Resources.svg?color=%09%2346c018)](https://github.com/addy1997/Robotics-Resources/graphs/commit-activity)
+
 
 A curated list of libraries, softwares, simulators for robotics. 
 #### Note: The data in this repository is updated and accurate to the best of my knowledge. In case of any correction, deletion  or addition of information please raise an issue. A mail can also be written to [adwaitnaik2@gmail.com].
