@@ -67,7 +67,9 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * Robotics Library - The Robotics Library (RL) is a self-contained C++ library for robot kinematics, motion planning and control. It covers mathematics, kinematics and dynamics, hardware abstraction, motion planning, collision detection, and visualization.[Documentation](https://www.roboticslibrary.org/)
 
-* 
+* SIMOX - The aim of the lightweight platform independent C++ toolbox Simox is to provide a set of algorithms for 3D simulation of robot systems, sampling based motion planning and grasp planning.[[github](https://github.com/softbankrobotics-research/Simox) ![SIMOX](https://img.shields.io/github/stars/softbankrobotics-research/Simox.svg?style=flat&label=Star&maxAge=86400)]
+
+
 
 
 
