@@ -1,5 +1,10 @@
 # Robotics-Resources
 
+[![Build Status](https://api.travis-ci.com/addy1997/Robotics-Resources.svg?branch=master)](https://travis-ci.com/addy1997/Robotics-Resources)
+[![Safety](https://img.shields.io/badge/safety-secure-brightgreen.svg)](https://app.gitguardian.com)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
+[![Contributions](https://img.shields.io/github/commit-activity/m/addy1997/Robotics-Resources.svg?color=%09%2346c018)](https://github.com/addy1997/Robotics-Resources/graphs/commit-activity)
+
 A curated list of libraries, softwares, simulators for robotics. 
 #### Note: The data in this repository is updated and accurate to the best of my knowledge. In case of any correction, deletion  or addition of information please raise an issue. A mail can also be written to [adwaitnaik2@gmail.com].
 
@@ -26,6 +31,7 @@ A curated list of libraries, softwares, simulators for robotics.
 * PyBullet - a python module for physics simulation of robots, loading URDF, SDF, MJCF files etc.[[github](https://github.com/bulletphysics/bullet3) ![PyBullet](https://img.shields.io/github/stars/bulletphysics/bullet3.svg?style=flat&label=Star&maxAge=86400)] 
 
 * Pygame - a library for used for game development and creating objects in 2D space.[[github](https://github.com/pygame/pygame)  ![Pygame](https://img.shields.io/github/stars/pygame/pygame.svg?style=flat&label=Star&maxAge=86400)]
+
 
 * pclpy 0.11.0 - a library used for creating point clouds for applications related to computer vision, robotics and computer graphics. [[github](https://github.com/davidcaron/pclpy) ![pclpy 0.11.0](https://img.shields.io/github/stars/davidcaron/pclpy.svg?style=flat&label=Star&maxAge=86400)]
 
