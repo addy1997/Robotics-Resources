@@ -10,10 +10,10 @@ A curated list of libraries, softwares, simulators for robotics.
 * [Control & Vision](#robotics-vision)
 * [Perception](#robotics-perception)
 * [Motion Planning](#Motion-planning)
+* [Graphics Engine/ Environments](#graphics-engine)
 * [Some cool repositories](#some-cool-repositories)
 * [Other essential packages and libraries](#other-essential-packages-and-libraries)
 * [Usage & Contribution](#usage-and-contribution)
-* [Graphics Engine/ Environments](#graphics-engine)
 * [Code Of Conduct](#code-of-conduct)
 
 
@@ -64,6 +64,11 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * SIMOX - The aim of the lightweight platform independent C++ toolbox Simox is to provide a set of algorithms for 3D simulation of robot systems, sampling based motion planning and grasp planning.[[github](https://github.com/softbankrobotics-research/Simox) ![SIMOX](https://img.shields.io/github/stars/softbankrobotics-research/Simox.svg?style=flat&label=Star&maxAge=86400)]
 
+## [Graphics Engine/ Environments](#Robotics-Resources)
+
+## [Some cool repositories](#Robotics-Resources)
+
+## [Other essential packages and libraries](#Robotics-Resources)
 
 
 
