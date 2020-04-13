@@ -27,9 +27,13 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * PyBullet - a python module for physics simulation of robots, loading URDF, SDF, MJCF files etc.[[github](https://github.com/bulletphysics/bullet3) ![PyBullet](https://img.shields.io/github/stars/bulletphysics/bullet3.svg?style=flat&label=Star&maxAge=86400)] 
 
-* Pygame - a library for used for game development and creating objects in 2D space.[[github](https://github.com/pygame/pygame)  ![pygame](https://img.shields.io/github/stars/pygame/pygame.svg?style=flat&label=Star&maxAge=86400)]
+* Pygame - a library for used for game development and creating objects in 2D space.[[github](https://github.com/pygame/pygame)  ![Pygame](https://img.shields.io/github/stars/pygame/pygame.svg?style=flat&label=Star&maxAge=86400)]
 
-* 
+* pclpy 0.11.0 - a library used for creating point clouds for applications related to computer vision, robotics and computer graphics. [[github](https://github.com/davidcaron/pclpy) ![pclpy 0.11.0](https://img.shields.io/github/stars/davidcaron/pclpy.svg?style=flat&label=Star&maxAge=86400)]
+
+* collision - this library is mainly used for collision checking in 2D space along with pygame. [[github](https://github.com/qwertyquerty/collision) ![collision](https://img.shields.io/github/stars/qwertyquerty/collision.svg?style=flat&label=Star&maxAge=86400)]
+
+
 
 
 
@@ -38,7 +42,8 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * MRPT - Mobile Robot Programming Toolkit (MRPT) provides C++ libraries aimed at researchers in mobile robotics and computer vision. [[github](https://github.com/MRPT/mrpt) ![mrpt](https://img.shields.io/github/stars/MRPT/mrpt.svg?style=flat&label=Star&maxAge=86400)]
 
-* 
+* Flexible collision library - this is mainly used for collision checking in 3D space in motion planning. [[github](https://github.com/flexible-collision-library/fcl) ![Flexible collision library](https://img.shields.io/github/stars/flexible-collision-library/fcl.svg?style=flat&label=Star&maxAge=86400)]
+
 
 
 
