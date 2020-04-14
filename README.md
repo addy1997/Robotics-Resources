@@ -83,9 +83,9 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * trimesh - a package for loading and making meshes. [[github](https://github.com/mikedh/trimesh)![trimesh](https://img.shields.io/github/stars/mikedh/trimesh.svg?style=flat&label=Star&maxAge=86400)]
 
-* Tkinter - a package used for visualization. [documentation](https://wiki.python.org/moin/TkInter)[tutorial](https://github.com/Dvlv/Tkinter-By-Example)
+* Tkinter - a package used for visualization. [documentation](https://wiki.python.org/moin/TkInter)  [tutorial](https://github.com/Dvlv/Tkinter-By-Example)
 
-* Pymesh - is a python based rapid prototyping platform for geometric and computer vision applications.[[github](https://github.com/PyMesh/PyMesh) ![Pymesh](https://img.shields.io/github/stars/PyMesh/PyMesh.svg?style=flat&label=Star&maxAge=86400)]
+* Pymesh - is a python based rapid prototyping platform for geometric and computer vision applications.[[github](https://github.com/PyMesh/PyMesh)![Pymesh](https://img.shields.io/github/stars/PyMesh/PyMesh.svg?style=flat&label=Star&maxAge=86400)]
 
 * Mesh -A Processing library for computing convex hulls, delaunay graphs and voronoi graphs from groups of points.[[github](https://github.com/leebyron/mesh) ![Mesh](https://img.shields.io/github/stars/leebyron/Mesh.svg?style=flat&label=Star&maxAge=86400)]
 
