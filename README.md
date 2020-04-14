@@ -89,6 +89,7 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * Mesh -A Processing library for computing convex hulls, delaunay graphs and voronoi graphs from groups of points.[[github](https://github.com/leebyron/mesh) ![Mesh](https://img.shields.io/github/stars/leebyron/Mesh.svg?style=flat&label=Star&maxAge=86400)]
 
+* OpenMesh - A generic and efficient polygon mesh data structure. [[github](https://github.com/etlapale/OpenMesh)![OpenMesh](https://img.shields.io/github/stars/etlapale/OpenMesh.svg?style=flat&label=Star&maxAge=86400)]  [Docs](https://www.graphics.rwth-aachen.de/software/openmesh/svn/)
 
 
 
