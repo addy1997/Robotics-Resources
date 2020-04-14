@@ -79,7 +79,7 @@ A curated list of libraries, softwares, simulators for robotics.
 
 ## [Other essential packages and libraries](#Robotics-Resources)
 
-* trimesh - a package for loading and making meshes. [[github](https://github.com/mikedh/trimesh) ![trimesh](https://img.shields.io/github/stars/mikedh/trimesh.svg?style=flat&label=Star&maxAge=86400)]
+* trimesh - a package for loading and making meshes. [[github](https://github.com/mikedh/trimesh)![trimesh](https://img.shields.io/github/stars/mikedh/trimesh.svg?style=flat&label=Star&maxAge=86400)]
 
 * Tkinter - a package used for visualization. [documentation](https://wiki.python.org/moin/TkInter)
 
