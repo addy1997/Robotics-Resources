@@ -3,8 +3,6 @@ A curated list of libraries, softwares, simulators for robotics.
 
 
 ![bubble](https://github.com/addy1997/Robotics-Resources/blob/master/robot.gif)
-
-[![Safety](https://img.shields.io/badge/safety-secure-brightgreen.svg)](https://app.gitguardian.com)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 #### Note: The data in this repository is updated and accurate to the best of my knowledge. In case of any correction, deletion  or addition of information please raise an issue. A mail can also be written to [adwaitnaik2@gmail.com].
@@ -80,6 +78,10 @@ A curated list of libraries, softwares, simulators for robotics.
 ## [Some cool repositories](#Robotics-Resources)
 
 ## [Other essential packages and libraries](#Robotics-Resources)
+
+* trimesh - a package for loading and making meshes. [[github](https://github.com/mikedh/trimesh) ![github](https://img.shields.io/github/stars/mikedh/trimesh.svg?style=flat&label=Star&maxAge=86400)]
+
+* Tkinter - a package used for visualization. [documentation](https://wiki.python.org/moin/TkInter)
 
 
 
