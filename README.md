@@ -93,7 +93,8 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * libigl - A simple C++ geometry processing library[[github](https://github.com/libigl/libigl)![libigl](https://img.shields.io/github/stars/libigl/libigl.svg?style=flat&label=Star&maxAge=86400)]
 
-* PyGEL - Python library for geometry processing [[github](https://github.com/janba/GEL)![PyGEL](https://img.shields.io/github/stars/janba/GEL.svg?style=flat&label=Star&maxAge=86400)] [[docs](http://www2.compute.dtu.dk/projects/GEL/PyGEL/)]
+* PyGEL - Python library for geometry processing [[github](https://github.com/janba/GEL)
+![PyGEL](https://img.shields.io/github/stars/janba/GEL.svg?style=flat&label=Star&maxAge=86400)]   [[Docs](http://www2.compute.dtu.dk/projects/GEL/PyGEL/)]
 
 
 
