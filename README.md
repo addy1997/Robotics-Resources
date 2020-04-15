@@ -100,7 +100,9 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * Delynoi: an object-oriented C++ library for the generation of polygonal meshes [[github](https://github.com/cemcen/Delynoi)![Delynoi](https://img.shields.io/github/stars/cemcen/Delynoi.svg?style=flat&label=Star&maxAge=86400)]
 
-* 
+* Cinolib: a Generic Programming Header Only C++ Library for Processing Polygonal and Polyhedral Meshes[[github](https://github.com/mlivesu/cinolib)![Cinolib](https://img.shields.io/github/stars/mlivesu/cinolib.svg?style=flat&label=Star&maxAge=86400)]  [paper](https://www.researchgate.net/publication/332496897_Cinolib_a_Generic_Programming_Header_Only_C_Library_for_Processing_Polygonal_and_Polyhedral_Meshes)
+
+
 
 
 
