@@ -96,6 +96,12 @@ A curated list of libraries, softwares, simulators for robotics.
 * PyGEL - Python library for geometry processing [[github](https://github.com/janba/GEL)
 ![PyGEL](https://img.shields.io/github/stars/janba/GEL.svg?style=flat&label=Star&maxAge=86400)]   [[Docs](http://www2.compute.dtu.dk/projects/GEL/PyGEL/)]
 
+* pmp-library - C++ based library for processing and generating meshes. [[github](https://github.com/pmp-library/pmp-library/)![pmp-library](https://img.shields.io/github/stars/pmp-library/pmp-library.svg?style=flat&label=Star&maxAge=86400)]
+
+* Delynoi: an object-oriented C++ library for the generation of polygonal meshes [[github](https://github.com/cemcen/Delynoi)![Delynoi](https://img.shields.io/github/stars/cemcen/Delynoi.svg?style=flat&label=Star&maxAge=86400)]
+
+* 
+
 
 
 
