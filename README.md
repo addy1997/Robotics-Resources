@@ -102,6 +102,10 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * Cinolib: a Generic Programming Header Only C++ Library for Processing Polygonal and Polyhedral Meshes[[github](https://github.com/mlivesu/cinolib)![Cinolib](https://img.shields.io/github/stars/mlivesu/cinolib.svg?style=flat&label=Star&maxAge=86400)]  [paper](https://www.researchgate.net/publication/332496897_Cinolib_a_Generic_Programming_Header_Only_C_Library_for_Processing_Polygonal_and_Polyhedral_Meshes)
 
+* cilantro - A lean C++ library for working with point cloud data.[[github](https://github.com/kzampog/cilantro)![cilnatro](https://img.shields.io/github/stars/kzampog/cilantro.svg?style=flat&label=Star&maxAge=86400)]
+
+* PDAL - Point Data Abstraction Library, is a C++ BSD library for translating and manipulating point cloud data. It is very much like the GDAL library which handles raster and vector data.[[github](https://github.com/PDAL/PDAL)![PDAL](https://img.shields.io/github/stars/PDAL/PDAL.svg?style=flat&label=Star&maxAge=86400)]
+
 
 
 
