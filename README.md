@@ -57,7 +57,7 @@ A curated list of libraries, softwares, simulators for robotics.
 
 ## [Robot Vision](#Robotics-Resources)
 
-## [Perception](#Robotics-Resources)
+## [Robot Perception](#Robotics-Resources)
 
 ## [Motion Planning](#Robotics-Resources)
 
