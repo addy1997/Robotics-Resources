@@ -57,6 +57,8 @@ A curated list of libraries, softwares, simulators for robotics.
 
 ## [Robot Vision](#Robotics-Resources)
 
+* OpenCV - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. [[github](https://github.com/opencv/opencv)![OpenCV](https://img.shields.io/github/stars/opencv/opencv.svg?style=flat&label=Star&maxAge=86400)]
+
 ## [Robot Perception](#Robotics-Resources)
 
 * CUDA Visual Library - This library focuses on the front-end of VIO pipelines.[[github](https://github.com/uzh-rpg/vilib)![CUDA Visual Library](https://img.shields.io/github/stars/uzh-rpg/vilib.svg?style=flat&label=Star&maxAge=86400)]
