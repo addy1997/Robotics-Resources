@@ -59,6 +59,9 @@ A curated list of libraries, softwares, simulators for robotics.
 
 ## [Robot Perception](#Robotics-Resources)
 
+* CUDA Visual Library - This library focuses on the front-end of VIO pipelines.[[github](https://github.com/uzh-rpg/vilib)![CUDA Visual Library](https://img.shields.io/github/stars/uzh-rpg/vilib.svg?style=flat&label=Star&maxAge=86400)]
+
+
 ## [Motion Planning](#Robotics-Resources)
 
 * sparse-rrt 0.0.2 - This package is based on Sparse-RRT project [sparse_rrt](https://bitbucket.org/pracsys/sparse_rrt/).The main purpose of this work is to allow running Sparse-RRT planner in python environment.[[github](https://github.com/olegsinyavskiy/sparse_rrt) ![sparse_rrt](https://img.shields.io/github/stars/olegsinyavskiy/sparse_rrt.svg?style=flat&label=Star&maxAge=86400)]
