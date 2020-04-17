@@ -13,8 +13,8 @@ A curated list of libraries, softwares, simulators for robotics.
 #### Table of Contents
 * [Libraries](#libraries)
 * [Visualization](#Visualization)
-* [Robot Vision](#robotics-vision)
-* [Perception](#robotics-perception)
+* [Robot Vision](#robot-vision)
+* [Robot Perception](#robot-perception)
 * [Motion Planning](#Motion-planning)
 * [Simulators/ Graphics Engine/ Environments](#graphics-engine)
 * [Some cool repositories](#some-cool-repositories)
