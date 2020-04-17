@@ -13,7 +13,7 @@ A curated list of libraries, softwares, simulators for robotics.
 #### Table of Contents
 * [Libraries](#libraries)
 * [Visualization](#Visualization)
-* [Control & Vision](#robotics-vision)
+* [Robot Vision](#robotics-vision)
 * [Perception](#robotics-perception)
 * [Motion Planning](#Motion-planning)
 * [Simulators/ Graphics Engine/ Environments](#graphics-engine)
@@ -55,7 +55,7 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * PyOpenGL - a cross platform library based on python and OpenGL. [[github](https://github.com/mcfletch/pyopengl) ![PyOpenGL](https://img.shields.io/github/stars/mcfletch/pyopengl.svg?style=flat&label=Star&maxAge=86400)]
 
-## [Vision](#Robotics-Resources)
+## [Robot Vision](#Robotics-Resources)
 
 ## [Perception](#Robotics-Resources)
 
