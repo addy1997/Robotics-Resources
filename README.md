@@ -116,6 +116,8 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * chainer - flexible framework for working with neural networks. [[github](https://github.com/chainer/chainer)![chainer](https://img.shields.io/github/stars/chainer/chainer.svg?style=flat&label=Star&maxAge=86400)]
 
+* shogun - a machine learning toolbox build on C++. It also supports python. [[github](https://github.com/shogun-toolbox/shogun)![shogun](https://img.shields.io/github/stars/shogun-toolbox/shogun.svg?style=flat&label=Star&maxAge=86400)]
+
 
 
 
