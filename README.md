@@ -118,6 +118,7 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * shogun - a machine learning toolbox build on C++. It also supports python. [[github](https://github.com/shogun-toolbox/shogun)![shogun](https://img.shields.io/github/stars/shogun-toolbox/shogun.svg?style=flat&label=Star&maxAge=86400)]
 
+* Apache Spark - Spark is a unified analytics engine for large-scale data processing. [[github](https://github.com/apache/spark)![Apche Spark](https://img.shields.io/github/stars/apache/spark.svg?style=flat&label=Star&maxAge=86400)]
 
 
 
