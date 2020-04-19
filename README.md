@@ -114,6 +114,10 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * LEPCC - Limited Error Point Cloud Compression, a library written in C++ for point cloud compression.[[github](https://github.com/PDAL/lepcc)![LEPCC](https://img.shields.io/github/stars/PDAL/lepcc.svg?style=flat&label=Star&maxAge=86400)]
 
+* chainer - flexible framework for working with neural networks. [[github](https://github.com/chainer/chainer)![chainer](https://img.shields.io/github/stars/chainer/chainer.svg?style=flat&label=Star&maxAge=86400)]
+
+
+
 
 
 
