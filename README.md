@@ -83,6 +83,10 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * Webots - It provides a complete development environment to model, program and simulate robots, vehicles and biomechanical systems.[[github](https://github.com/cyberbotics/webots)![Webots](https://img.shields.io/github/stars/cyberbotics/webots.svg?style=flat&label=Star&maxAge=86400)]
 
+* Stage - Stage is a 2(.5)D robotics standalone simulator and can also be used as a C++ library to build your own simulation environment. [[github](https://github.com/rtv/Stage)![Stage](https://img.shields.io/github/stars/rtv/Stage.svg?style=flat&label=Star&maxAge=86400)]
+
+* 
+
 ## [Some cool repositories](#Robotics-Resources)
 
 ## [Other essential packages and libraries](#Robotics-Resources)
