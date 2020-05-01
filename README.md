@@ -38,7 +38,7 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * collision - this library is mainly used for collision checking in 2D space along with pygame. [[github](https://github.com/qwertyquerty/collision) ![collision](https://img.shields.io/github/stars/qwertyquerty/collision.svg?style=flat&label=Star&maxAge=86400)]
 
-* Ropy - A library by Peter Corke based on the paper "Maximising manipulability during resolved-rate motion control,".[[github](https://github.com/jhavl/ropy)![Ropy](https://img.shields.io/github/stars/jhavl/ropy.svg?style=flat&label=Star&maxAge=86400)][Paper](https://arxiv.org/abs/2002.11901)
+* Ropy - A library by Peter Corke based on the paper "Maximising manipulability during resolved-rate motion control,".[[github](https://github.com/jhavl/ropy)![Ropy](https://img.shields.io/github/stars/jhavl/ropy.svg?style=flat&label=Star&maxAge=86400)][[Paper](https://arxiv.org/abs/2002.11901)]
 
 
 ###### C++ based libraries
@@ -94,7 +94,6 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * Mobile Robot Simulator - Mobile robot simulator in MATLAB.[[github](https://github.com/sjchoi86/Mobile-robot-simulator)![Mobile Robot Simulator](https://img.shields.io/github/stars/sjchoi86/Mobile-robot-simulator.svg?style=flat&label=Star&maxAge=86400)]
 
-* 
 
 ## [Some cool repositories](#Robotics-Resources)
 
