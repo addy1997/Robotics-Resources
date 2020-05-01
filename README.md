@@ -89,6 +89,8 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * RoboDK - is a robot simulator which allows programming and simulating any robot online and offline. It is mailny used for industrial applications. [[github](https://github.com/RoboDK/RoboDK-API)![RoboDK](https://img.shields.io/github/stars/RoboDK/RoboDK-API.svg?style=flat&label=Star&maxAge=86400)]
 
+* Mobile Robot Simulator - Mobile robot simulator in MATLAB.[[github](https://github.com/sjchoi86/Mobile-robot-simulator)![Mobile Robot Simulator](https://img.shields.io/github/stars/sjchoi86/Mobile-robot-simulator.svg?style=flat&label=Star&maxAge=86400)]
+
 * 
 
 ## [Some cool repositories](#Robotics-Resources)
