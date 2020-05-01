@@ -38,6 +38,9 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * collision - this library is mainly used for collision checking in 2D space along with pygame. [[github](https://github.com/qwertyquerty/collision) ![collision](https://img.shields.io/github/stars/qwertyquerty/collision.svg?style=flat&label=Star&maxAge=86400)]
 
+* Ropy - A library by Peter Corke based on the paper "Maximising manipulability during resolved-rate motion control,".[[github](https://github.com/jhavl/ropy)![Ropy](https://img.shields.io/github/stars/jhavl/ropy.svg?style=flat&label=Star&maxAge=86400)][Paper](https://arxiv.org/abs/2002.11901)
+
+
 ###### C++ based libraries
 
 * MRPT - Mobile Robot Programming Toolkit (MRPT) provides C++ libraries aimed at researchers in mobile robotics and computer vision. [[github](https://github.com/MRPT/mrpt) ![mrpt](https://img.shields.io/github/stars/MRPT/mrpt.svg?style=flat&label=Star&maxAge=86400)]
