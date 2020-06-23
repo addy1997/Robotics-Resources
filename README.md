@@ -43,6 +43,18 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * Ropy - A library by Peter Corke based on the paper "Maximising manipulability during resolved-rate motion control,".[[github](https://github.com/jhavl/ropy)![Ropy](https://img.shields.io/github/stars/jhavl/ropy.svg?style=flat&label=Star&maxAge=86400)][[Paper](https://arxiv.org/abs/2002.11901)]
 
+* pybotvac - This is an unofficial API for controlling Neato Botvac Connected vacuum robots. [[github](https://github.com/stianaske/pybotvac)![pybotvac](https://img.shields.io/github/stars/stianaske/pybotvac.svg?style=flat&label=Star&maxAge=86400)]
+
+* pybot - Research tools for autonomous systems using Python. [[github](https://github.com/spillai/pybot)![pybot](https://img.shields.io/github/stars/spillai/pybot.svg?style=flat&label=Star&maxAge=86400)]
+
+* PyBot - a python module for creating and deploying twitter bots. [[github](https://github.com/magsol/pybot)![PyBot](https://img.shields.io/github/stars/magsol/pybot.svg?style=flat&label=Star&maxAge=86400)]
+
+* pybotgram - A Telegram Bot written in Python with plugins based in yagop telegram-bot using tg. [[github](https://github.com/rockneurotiko/pybotgram)![pybotgram](https://img.shields.io/github/stars/rockneurotiko/pybotgram.svg?style=flat&label=Star&maxAge=86400)]
+
+* pyrobottraining- This is a repository that can be used as a tool to teach you about programming an FRC robot using python and the RobotPy WPILib libraries.[[github](https://github.com/robotpy/pyrobottraining)![pyrobottraining](https://img.shields.io/github/stars/robotpy/pyrobottraining.svg?style=flat&label=Star&maxAge=86400)]
+
+* airobot - AIRobot is a python library to interface with robots. It follows a similar architecture from PyRobot. [[github](https://github.com/Improbable-AI/airobot)![airobot](https://img.shields.io/github/stars/Improbable-AI/airobot.svg?style=flat&label=Star&maxAge=86400)]
+
 
 ###### C++ based libraries
 
