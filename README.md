@@ -147,6 +147,10 @@ A curated list of libraries, softwares, simulators for robotics.
 
 * Apache Spark - Spark is a unified analytics engine for large-scale data processing. [[github](https://github.com/apache/spark)![Apche Spark](https://img.shields.io/github/stars/apache/spark.svg?style=flat&label=Star&maxAge=86400)]
 
+* Pinocchio - instantiates the state-of-the-art Rigid Body Algorithms for poly-articulated systems based on revisited Roy Featherstone's algorithms. Besides, Pinocchio provides the analytical derivatives of the main Rigid-Body Algorithms like the Recursive Newton-Euler Algorithm or the Articulated-Body Algorithm. [[github](https://github.com/stack-of-tasks/pinocchio)![Pinocchio](https://img.shields.io/github/stars/stack-of-tasks/Pinocchio.svg?style=flat&label=Star&maxAge=86400)]
+
+* Crocoddyl - Contact RObot COntrol by Differential DYnamic programming Library. [[github](https://github.com/loco-3d/crocoddyl)![Crocoddyl](https://img.shields.io/github/stars/loco-3d/crocoddyl.svg?style=flat&label=Star&maxAge=86400)]
+
 
 ## [Usage & Contribution](#Robotics-Resources)
 
