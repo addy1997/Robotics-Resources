@@ -1,4 +1,6 @@
-# Robotics-Resources
+ ![LOGO](https://github.com/addy1997/Robotics-Resources/blob/master/Screenshot%202020-06-28%20at%201.09.06%20PM.png)
+ 
+ -------------------------------------------------------------------------------------------------------------------
 A curated list of libraries, softwares, simulators for robotics. 
 
 
