@@ -23,6 +23,8 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * [Some cool repositories](#some-cool-repositories)
 * [Other essential packages and libraries](#other-essential-packages-and-libraries)
 * [Textbooks](#Textbooks)
+* [Scientific-journals](#Scientific-journals)
+* [Series-of-international-scientific-conferences](#Series-of-international-scientific-conferences)
 
 
 
@@ -200,6 +202,30 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * [M. Vukobratovi ́c, Introduction to Robotics, Springer-Verlag, Berlin, Ger- many, 1989.](https://www.springer.com/gp/book/9783642829994)
 
 * [T. Yoshikawa, Foundations of Robotics, MIT Press, Boston, MA, 1990.](https://www.tandfonline.com/doi/abs/10.1080/00207549108948075)
+
+
+## [Scientific journals](#Robotics-Resources)
+
+* [Advanced Robotics](https://www.rsj.or.jp/en/pub/ar/about.html)
+* [Autonomous Robots](https://www.springer.com/journal/10514)
+* [IEEE Robotics and Automation Magazine](https://www.ieee-ras.org/publications/ram)
+* [IEEE Transactions on Robotics](https://www.ieee-ras.org/publications/t-ro)
+* [International Journal of Robotics Research](https://journals.sagepub.com/home/ijr)
+* [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967)
+* [Journal of Intelligent and Robotic Systems](https://www.springer.com/journal/10846)
+* [Robotica](https://www.cambridge.org/core/journals/robotica)
+* [Robotics and Autonomous Systems](https://www.journals.elsevier.com/robotics-and-autonomous-systems)
+
+
+## [Series of international scientific conferences](#Robotics-Resources)
+
+* [IEEE International Conference on Robotics and Automation](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+* [IEEE/RSJ International Conference on Intelligent Robots and Systems](https://www.ieee-ras.org/component/rseventspro/event/1714-iros-2020-international-conference-on-intelligent-robots-and-systems)
+* [International Conference on Advanced Robotics](https://www.ieee-ras.org/component/rseventspro/event/1592-icar-2019-international-conference-on-advanced-robotics)
+* [International Symposium of Robotics Research](http://www.isrr2019.org/)
+* [International Symposium on Experimental Robotics](https://link.springer.com/conference/iser)
+* [Robotics: Science and Systems](https://roboticsconference.org/)
+
 
 
 
