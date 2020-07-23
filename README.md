@@ -9,9 +9,9 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)  [![Build Status](https://ci.appveyor.com/api/projects/status/8e784doc5sye7c41?svg=true)](https://ci.appveyor.com/project/addy1997/Robotics-Resources) [![Stars](https://img.shields.io/github/stars/addy1997/Robotics-Resources.svg?style=flat&label=Star&maxAge=86400)](STARS)  [![Contributions](https://img.shields.io/github/commit-activity/m/addy1997/Robotics-Resources.svg?color=%09%2346c018)](https://github.com/addy1997/Robotics-Resources/graphs/commit-activity)
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Note: The data in this repository is updated and accurate to the best of my knowledge. In case of any correction, deletion  or addition of information please raise an issue. A mail can also be written to [adwaitnaik2@gmail.com].
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Table of Contents
 * [Libraries](#libraries)
@@ -26,7 +26,7 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * [Scientific-journals](#Scientific-journals)
 * [Series-of-international-scientific-conferences](#Series-of-international-scientific-conferences)
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Libraries](#Robotics-Resources)
 
@@ -57,7 +57,7 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 
 * airobot - AIRobot is a python library to interface with robots. It follows a similar architecture from PyRobot. [[github](https://github.com/Improbable-AI/airobot)![airobot](https://img.shields.io/github/stars/Improbable-AI/airobot.svg?style=flat&label=Star&maxAge=86400)]
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###### C++ based libraries
 
 * MRPT - Mobile Robot Programming Toolkit (MRPT) provides C++ libraries aimed at researchers in mobile robotics and computer vision. [[github](https://github.com/MRPT/mrpt) ![mrpt](https://img.shields.io/github/stars/MRPT/mrpt.svg?style=flat&label=Star&maxAge=86400)]
@@ -65,6 +65,8 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * Flexible collision library - this is mainly used for collision checking in 3D space in motion planning. [[github](https://github.com/flexible-collision-library/fcl) ![Flexible collision library](https://img.shields.io/github/stars/flexible-collision-library/fcl.svg?style=flat&label=Star&maxAge=86400)]
 
 * Trajopt - is a C++ based library by UC berkeley for Motion planning, trajectory optimisation, etc. [[github](https://github.com/joschu/trajopt) ![Trajopt](https://img.shields.io/github/stars/joschu/trajopt.svg?style=flat&label=Star&maxAge=86400)]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## [Visualization](#Robotics-Resources)
@@ -75,15 +77,21 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 
 * PyOpenGL - a cross platform library based on python and OpenGL. [[github](https://github.com/mcfletch/pyopengl) ![PyOpenGL](https://img.shields.io/github/stars/mcfletch/pyopengl.svg?style=flat&label=Star&maxAge=86400)]
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## [Robot Vision](#Robotics-Resources)
 
 * OpenCV - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. [[github](https://github.com/opencv/opencv)![OpenCV](https://img.shields.io/github/stars/opencv/opencv.svg?style=flat&label=Star&maxAge=86400)]
 
 * SimpleCV - SimpleCV is an open source framework for building computer vision applications. With it, you get access to several high-powered computer vision libraries such as OpenCV – without having to first learn about bit depths, file formats, color spaces, buffer management, eigenvalues, or matrix versus bitmap storage. [[github](https://github.com/sightmachine/SimpleCV)![SimpleCV](https://img.shields.io/github/stars/sightmachine/SimpleCV.svg?style=flat&label=Star&maxAge=86400)]
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## [Robot Perception](#Robotics-Resources)
 
 * CUDA Visual Library - This library focuses on the front-end of VIO pipelines.[[github](https://github.com/uzh-rpg/vilib)![CUDA Visual Library](https://img.shields.io/github/stars/uzh-rpg/vilib.svg?style=flat&label=Star&maxAge=86400)]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Motion Planning](#Robotics-Resources)
 
@@ -111,8 +119,7 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 
 * Mobile Robot Simulator - Mobile robot simulator in MATLAB.[[github](https://github.com/sjchoi86/Mobile-robot-simulator)![Mobile Robot Simulator](https://img.shields.io/github/stars/sjchoi86/Mobile-robot-simulator.svg?style=flat&label=Star&maxAge=86400)]
 
-
-## [Some cool repositories](#Robotics-Resources)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Other essential packages and libraries](#Robotics-Resources)
 
@@ -153,7 +160,7 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 
 * Crocoddyl - Contact RObot COntrol by Differential DYnamic programming Library. [[github](https://github.com/loco-3d/crocoddyl)![Crocoddyl](https://img.shields.io/github/stars/loco-3d/crocoddyl.svg?style=flat&label=Star&maxAge=86400)]
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## [Textbooks](#Robotics-Resources)
 
 * [J. Angeles, Fundamentals of Robotic Mechanical Systems: Theory, Meth- ods, and Algorithms, Springer-Verlag, New York, 1997.](https://www.springer.com/gp/book/9780387224589)
@@ -203,7 +210,7 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 
 * [T. Yoshikawa, Foundations of Robotics, MIT Press, Boston, MA, 1990.](https://www.tandfonline.com/doi/abs/10.1080/00207549108948075)
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## [Scientific journals](#Robotics-Resources)
 
 * [Advanced Robotics](https://www.rsj.or.jp/en/pub/ar/about.html)
@@ -216,7 +223,7 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * [Robotica](https://www.cambridge.org/core/journals/robotica)
 * [Robotics and Autonomous Systems](https://www.journals.elsevier.com/robotics-and-autonomous-systems)
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## [Series of international scientific conferences](#Robotics-Resources)
 
 * [IEEE International Conference on Robotics and Automation](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
