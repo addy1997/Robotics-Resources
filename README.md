@@ -195,6 +195,13 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * [W.E. Snyder, Industrial Robots: Computer Interfacing and Control, Prentice-Hall, Englewood Cliffs, NJ, 1985.](https://www.amazon.in/Industrial-Robots-Interfacing-Prentice-Hall-industrial/dp/0134631595)
 
 
+* [M.W. Spong, S. Hutchinson, M. Vidyasagar, Robot Modeling and Control, Wiley, New York, 2006.](https://www.wiley.com/en-us/Robot+Modeling+and+Control-p-9780471649908)
+
+* [M. Vukobratovi ́c, Introduction to Robotics, Springer-Verlag, Berlin, Ger- many, 1989.](https://www.springer.com/gp/book/9783642829994)
+
+* [T. Yoshikawa, Foundations of Robotics, MIT Press, Boston, MA, 1990.](https://www.tandfonline.com/doi/abs/10.1080/00207549108948075)
+
+
 
 
 
