@@ -1,15 +1,13 @@
  ![LOGO](https://github.com/addy1997/Robotics-Resources/blob/master/Screenshot%202020-06-28%20at%201.09.06%20PM.png)
  
  -------------------------------------------------------------------------------------------------------------------
-A curated list of libraries, softwares, simulators for robotics. 
+A curated list of libraries, softwares, simulators for robotics. Recently, I added a list of important books and conferences for Robotics.
 
 
 ![bubble](https://github.com/addy1997/Robotics-Resources/blob/master/robot.gif)
 
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)  [![Build Status](https://ci.appveyor.com/api/projects/status/8e784doc5sye7c41?svg=true)](https://ci.appveyor.com/project/addy1997/Robotics-Resources) [![Stars](https://img.shields.io/github/stars/addy1997/Robotics-Resources.svg?style=flat&label=Star&maxAge=86400)](STARS)  [![Contributions](https://img.shields.io/github/commit-activity/m/addy1997/Robotics-Resources.svg?color=%09%2346c018)](https://github.com/addy1997/Robotics-Resources/graphs/commit-activity)
-
-
 
 
 #### Note: The data in this repository is updated and accurate to the best of my knowledge. In case of any correction, deletion  or addition of information please raise an issue. A mail can also be written to [adwaitnaik2@gmail.com].
@@ -24,8 +22,8 @@ A curated list of libraries, softwares, simulators for robotics.
 * [Graphics Engine/ Environments](#graphics-engine)
 * [Some cool repositories](#some-cool-repositories)
 * [Other essential packages and libraries](#other-essential-packages-and-libraries)
-* [Usage & Contribution](#usage-and-contribution)
-* [Code Of Conduct](#code-of-conduct)
+* [Textbooks](#Textbooks)
+
 
 
 ## [Libraries](#Robotics-Resources)
@@ -154,10 +152,49 @@ A curated list of libraries, softwares, simulators for robotics.
 * Crocoddyl - Contact RObot COntrol by Differential DYnamic programming Library. [[github](https://github.com/loco-3d/crocoddyl)![Crocoddyl](https://img.shields.io/github/stars/loco-3d/crocoddyl.svg?style=flat&label=Star&maxAge=86400)]
 
 
-## [Usage & Contribution](#Robotics-Resources)
+## [Textbooks](#Robotics-Resources)
+
+* [J. Angeles, Fundamentals of Robotic Mechanical Systems: Theory, Meth- ods, and Algorithms, Springer-Verlag, New York, 1997.](https://www.springer.com/gp/book/9780387224589)
+
+* [H. Asada, J.-J.E. Slotine, Robot Analysis and Control, Wiley, New York, 1986.](https://www.wiley.com/en-in/Robot+Analysis+and+Control-p-9780471830290)
+
+* [G.A. Bekey, Autonomous Robots, MIT Press, Cambridge, MA, 2005.](https://mitpress.mit.edu/books/autonomous-robots)
+
+* [C. Canudas de Wit, B. Siciliano, G. Bastin, (Eds.), Theory of Robot Control, Springer-Verlag, London, 1996.](https://www.springer.com/gp/book/9781447115038)
+
+* [J.J. Craig, Introduction to Robotics: Mechanics and Control, 3rd ed., Pearson Prentice Hall, Upper Saddle River, NJ, 2004.](https://link.springer.com/chapter/10.1007/978-1-84628-642-1_1)
+
+* [A.J. Critchlow, Introduction to Robotics, Macmillan, New York, 1985.](https://www.worldcat.org/title/introduction-to-robotics/oclc/635623654)
+
+* [J.F. Engelberger, Robotics in Practice, Amacom, New York, 1980.](https://www.springer.com/gp/book/9780850386691)
+
+* [J.F. Engelberger, Robotics in Service, MIT Press, Cambridge, MA, 1989.](https://mitpress.mit.edu/books/robotics-service)
+
+* [K.S. Fu, R.C. Gonzalez, C.S.G. Lee, Robotics: Control, Sensing, Vision,and Intelligence, McGraw-Hill, New York, 1987.](https://www.worldcat.org/title/robotics-control-sensing-vision-and-intelligence/oclc/13358751)
+
+* [W. Khalil, E. Dombre, Modeling, Identification and Control of Robots, Hermes Penton Ltd, London, 2002.](https://www.worldcat.org/title/modeling-identification-control-of-robots/oclc/264997387)
+
+* [A.J. Koivo, Fundamentals for Control of Robotic Manipulators, Wiley,New York, 1989.](https://www.amazon.com/Fundamentals-Control-Robotic-Manipulators-Antti/dp/0471857149)
+
+* [Y. Koren, Robotics for Engineers, McGraw-Hill, New York, 1985.](https://catalogue.nla.gov.au/Record/4556838)
+
+* [F.L. Lewis, C.T. Abdallah, D.M. Dawson, Control of Robot Manipulators,Macmillan, New York, 1993.](https://www.worldcat.org/title/control-of-robot-manipulators/oclc/26012747)
+
+* [P.J. McKerrow, Introduction to Robotics, Addison-Wesley, Sydney, Australia, 1991.](https://dl.acm.org/doi/book/10.5555/532713)
+
+* [R.M. Murray, Z. Li, S.S. Sastry, A Mathematical Introduction to Robotic Manipulation, CRC Press, Boca Raton, FL, 1994.](https://books.google.fr/books?id=D_PqGKRo7oIC)
+
+* [S.B. Niku, Introduction to Robotics: Analysis, Systems, Applications,Prentice-Hall, Upper Saddle River, NJ, 2001.](https://www.academia.edu/40360855/Introduction_To_Robotics_Analysis_Control_Applications_2nd_Ed)
+
+* [R.P. Paul, Robot Manipulators: Mathematics, Programming, and Control MIT Press, Cambridge, MA, 1981.](https://mitpress.mit.edu/contributors/richard-p-paul)
+
+* [R.J. Schilling, Fundamentals of Robotics: Analysis and Control, Prentice Hall, Englewood Cliffs, NJ, 1990.](https://www.worldcat.org/title/fundamentals-of-robotics-analysis-and-control/oclc/472851222)
+
+* [L. Sciavicco, B. Siciliano, Model ling and Control of Robot Manipulators ,2nd ed., Springer, London, UK, 2000.](https://www.springer.com/gp/book/9781852332211)
+
+* [W.E. Snyder, Industrial Robots: Computer Interfacing and Control, Prentice-Hall, Englewood Cliffs, NJ, 1985.](https://www.amazon.in/Industrial-Robots-Interfacing-Prentice-Hall-industrial/dp/0134631595)
 
 
-## [Code Of Conduct](#Robotics-Resources)
 
 
 
