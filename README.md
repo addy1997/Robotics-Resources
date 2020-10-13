@@ -160,6 +160,8 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 
 * Crocoddyl - Contact RObot COntrol by Differential DYnamic programming Library. [[github](https://github.com/loco-3d/crocoddyl)![Crocoddyl](https://img.shields.io/github/stars/loco-3d/crocoddyl.svg?style=flat&label=Star&maxAge=86400)]
 
+* FCL- FCL is a library for performing three types of proximity queries on a pair of geometric models composed of triangles.. [[github](https://github.com/flexible-collision-library/fcl)![FCL](https://img.shields.io/github/stars/flexible-collision-library/fcl.svg?style=flat&label=Star&maxAge=86400)]
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## [Textbooks](#Robotics-Resources)
 
