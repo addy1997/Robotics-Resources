@@ -123,6 +123,8 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 
 ## [Other essential packages and libraries](#Robotics-Resources)
 
+* ROS - ROS is a meta-operating system for your robot.  It provides language-independent and network-transparent communication for adistributed robot control system. [[github](https://github.com/ros/ros)![Ros](https://img.shields.io/github/stars/ros/ros.svg?style=flat&label=Star&maxAge=86400))]
+
 * trimesh - a package for loading and making meshes. [[github](https://github.com/mikedh/trimesh)![trimesh](https://img.shields.io/github/stars/mikedh/trimesh.svg?style=flat&label=Star&maxAge=86400)]
 
 * Tkinter - a package used for visualization. [documentation](https://wiki.python.org/moin/TkInter)  [tutorial](https://github.com/Dvlv/Tkinter-By-Example)
