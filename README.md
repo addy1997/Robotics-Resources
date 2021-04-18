@@ -57,6 +57,8 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 
 * airobot - AIRobot is a python library to interface with robots. It follows a similar architecture from PyRobot. [[github](https://github.com/Improbable-AI/airobot)![airobot](https://img.shields.io/github/stars/Improbable-AI/airobot.svg?style=flat&label=Star&maxAge=86400)]
 
+* ropy - A successor to the famous Peter Corke's robotics toolbox, this library is written in python to control robots in a simulated environments. [[github](https://github.com/jhavl/ropy)![ropy](https://img.shields.io/github/stars/jhavl/ropy.svg?style=flat&label=Star&maxAge=86400)]
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###### C++ based libraries
 
@@ -65,6 +67,10 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * Flexible collision library - this is mainly used for collision checking in 3D space in motion planning. [[github](https://github.com/flexible-collision-library/fcl) ![Flexible collision library](https://img.shields.io/github/stars/flexible-collision-library/fcl.svg?style=flat&label=Star&maxAge=86400)]
 
 * Trajopt - is a C++ based library by UC berkeley for Motion planning, trajectory optimisation, etc. [[github](https://github.com/joschu/trajopt) ![Trajopt](https://img.shields.io/github/stars/joschu/trajopt.svg?style=flat&label=Star&maxAge=86400)]
+
+* Eprosima - eProsima Fast DDS implements the RTPS (Real Time Publish Subscribe) protocol, which provides publisher-subscriber communications over unreliable transports such as UDP, as defined and maintained by the Object Management Group (OMG) consortium [[github](https://github.com/eProsima/Fast-DDS) ![Eprosima](https://img.shields.io/github/stars/eProsima/Fast-DDS.svg?style=flat&label=Star&maxAge=86400)]
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
