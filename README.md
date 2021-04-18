@@ -139,7 +139,7 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 
 * Mesh -A Processing library for computing convex hulls, delaunay graphs and voronoi graphs from groups of points.[[github](https://github.com/leebyron/mesh) ![Mesh](https://img.shields.io/github/stars/leebyron/Mesh.svg?style=flat&label=Star&maxAge=86400)]
 
-* OpenMesh - A generic and efficient polygon mesh data structure. [[github](https://github.com/etlapale/OpenMesh)![OpenMesh](https://img.shields.io/github/stars/etlapale/OpenMesh.svg?style=flat&label=Star&maxAge=86400)]  [[Docs](https://www.graphics.rwth-aachen.de/software/openmesh/svn/)]
+* OpenMesh - A generic and efficient polygon mesh data structure. [Relocated-to-this](https://www.graphics.rwth-aachen.de:9000/OpenMesh/OpenMesh)  [[Docs](https://www.graphics.rwth-aachen.de/software/openmesh/svn/)]
 
 * libigl - A simple C++ geometry processing library[[github](https://github.com/libigl/libigl)![libigl](https://img.shields.io/github/stars/libigl/libigl.svg?style=flat&label=Star&maxAge=86400)]
 
