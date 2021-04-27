@@ -238,7 +238,7 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * [Science Robotics](https://robotics.sciencemag.org/) 
 * [Robotics and Computer-Integrated Manufacturing](https://www.google.com/search?client=firefox-b-d&q=Robotics+and+Computer-Integrated+Manufacturing)
 * [EEE Robotics and Automation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)
-* [IEEE/RSJ International Conference on Intelligent Robots and Systems](IEEE/RSJ International Conference on Intelligent Robots and Systems)
+* [IEEE/RSJ International Conference on Intelligent Robots and Systems](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## [Series of international scientific conferences](#Robotics-Resources)
 
