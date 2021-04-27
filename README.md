@@ -232,7 +232,13 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * [Journal of Intelligent and Robotic Systems](https://www.springer.com/journal/10846)
 * [Robotica](https://www.cambridge.org/core/journals/robotica)
 * [Robotics and Autonomous Systems](https://www.journals.elsevier.com/robotics-and-autonomous-systems)
-
+* [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai)
+* [International Journal of Social Robotics](https://www.springer.com/journal/12369)
+* [Soft Robotics](https://www.scijournal.org/impact-factor-of-soft-robotics.shtml)
+* [Science Robotics](https://robotics.sciencemag.org/) 
+* [Robotics and Computer-Integrated Manufacturing](https://www.google.com/search?client=firefox-b-d&q=Robotics+and+Computer-Integrated+Manufacturing)
+* [EEE Robotics and Automation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)
+* [IEEE/RSJ International Conference on Intelligent Robots and Systems](IEEE/RSJ International Conference on Intelligent Robots and Systems)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## [Series of international scientific conferences](#Robotics-Resources)
 
@@ -242,7 +248,8 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * [International Symposium of Robotics Research](http://www.isrr2019.org/)
 * [International Symposium on Experimental Robotics](https://link.springer.com/conference/iser)
 * [Robotics: Science and Systems](https://roboticsconference.org/)
-
+* [ACM/IEEE International Conference on Human Robot Interaction](https://dl.acm.org/conference/hri)
+* [Robotics: Science and Systems](https://roboticsconference.org/)
 
 
 
