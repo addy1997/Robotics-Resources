@@ -70,6 +70,11 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 
 * Eprosima - eProsima Fast DDS implements the RTPS (Real Time Publish Subscribe) protocol, which provides publisher-subscriber communications over unreliable transports such as UDP, as defined and maintained by the Object Management Group (OMG) consortium [[github](https://github.com/eProsima/Fast-DDS) ![Eprosima](https://img.shields.io/github/stars/eProsima/Fast-DDS.svg?style=flat&label=Star&maxAge=86400)]
 
+* Sophus - This is a c++ implementation of Lie groups commonly used for 2d and 3d geometric problems (i.e. for Computer Vision or Robotics applications).[[github](https://github.com/strasdat/Sophus) ![Sophus](https://img.shields.io/github/stars/strasdat/Sophus.svg?style=flat&label=Star&maxAge=86400)]
+
+* ModernRoboticsCpp - Mechanics, Planning, and Control C++ Library --- The primary purpose of the provided software is to be easy to read and educational, reinforcing the concepts in the book. [[github](https://github.com/Le0nX/ModernRoboticsCpp#modern-robotics--mechanics-planning-and-control) ![ModernRoboticsCpp](https://img.shields.io/github/stars/Le0nX/ModernRoboticsCpp.svg?style=flat&label=Star&maxAge=86400)]
+
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
