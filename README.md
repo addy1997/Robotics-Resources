@@ -74,7 +74,7 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 
 * ModernRoboticsCpp - Mechanics, Planning, and Control C++ Library --- The primary purpose of the provided software is to be easy to read and educational, reinforcing the concepts in the book. [[github](https://github.com/Le0nX/ModernRoboticsCpp#modern-robotics--mechanics-planning-and-control) ![ModernRoboticsCpp](https://img.shields.io/github/stars/Le0nX/ModernRoboticsCpp.svg?style=flat&label=Star&maxAge=86400)]
 
-
+* FIESTA: Euclidean Signed Distance Field (ESDF) is useful for online motion planning of aerial robots since it can easily query the distance_ and gradient information against obstacles. [[github](https://github.com/HKUST-Aerial-Robotics/FIESTA) ![FIESTA](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/FIESTA.svg?style=flat&label=Star&maxAge=86400)]
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
