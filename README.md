@@ -20,6 +20,7 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * [Robot Perception](#robot-perception)
 * [Motion Planning](#Motion-planning)
 * [Graphics Engine/ Environments](#graphics-engine)
+* [SLAM](#SLAM)
 * [Some cool repositories](#some-cool-repositories)
 * [Other essential packages and libraries](#other-essential-packages-and-libraries)
 * [Textbooks](#Textbooks)
@@ -37,7 +38,6 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * PyBullet - a python module for physics simulation of robots, loading URDF, SDF, MJCF files etc.[[github](https://github.com/bulletphysics/bullet3) ![PyBullet](https://img.shields.io/github/stars/bulletphysics/bullet3.svg?style=flat&label=Star&maxAge=86400)] 
 
 * Pygame - a library for used for game development and creating objects in 2D space.[[github](https://github.com/pygame/pygame)  ![Pygame](https://img.shields.io/github/stars/pygame/pygame.svg?style=flat&label=Star&maxAge=86400)]
-
 
 * pclpy 0.11.0 - a library used for creating point clouds for applications related to computer vision, robotics and computer graphics. [[github](https://github.com/davidcaron/pclpy) ![pclpy 0.11.0](https://img.shields.io/github/stars/davidcaron/pclpy.svg?style=flat&label=Star&maxAge=86400)]
 
@@ -129,6 +129,32 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * RoboDK - is a robot simulator which allows programming and simulating any robot online and offline. It is mailny used for industrial applications. [[github](https://github.com/RoboDK/RoboDK-API)![RoboDK](https://img.shields.io/github/stars/RoboDK/RoboDK-API.svg?style=flat&label=Star&maxAge=86400)]
 
 * Mobile Robot Simulator - Mobile robot simulator in MATLAB.[[github](https://github.com/sjchoi86/Mobile-robot-simulator)![Mobile Robot Simulator](https://img.shields.io/github/stars/sjchoi86/Mobile-robot-simulator.svg?style=flat&label=Star&maxAge=86400)]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## [SLAM](#Robotics-Resources)
+
+* AprilSAM - Real-time smoothing and mapping [[github](https://github.com/xipengwang/AprilSAM) ![xipengwang/AprilSAM](https://img.shields.io/github/stars/xipengwang/AprilSAM.svg?style=flat&label=Star&maxAge=86400)]
+
+* Cartographer -  Real-time SLAM in 2D and 3D across multiple platforms and sensor configurations [[github](https://github.com/googlecartographer/cartographer) ![cartographer](https://img.shields.io/github/stars/googlecartographer/cartographer.svg?style=flat&label=Star&maxAge=86400)]
+
+* DSO - Novel direct and sparse formulation for Visual Odometry [[github](https://github.com/JakobEngel/dso) ![dso](https://img.shields.io/github/stars/JakobEngel/dso.svg?style=flat&label=Star&maxAge=86400)]
+
+* ElasticFusion - Real-time dense visual SLAM system [[github](http://github.com/mp3guy/ElasticFusion) ![ElasticFusion](https://img.shields.io/github/stars/mp3guy/ElasticFusion.svg?style=flat&label=Star&maxAge=86400)]
+
+* fiducials - Simultaneous localization and mapping using fiducial markers [[github](http://github.com/UbiquityRobotics/fiducials) ![UbiquityRobotics/fiducials](https://img.shields.io/github/stars/UbiquityRobotics/fiducials.svg?style=flat&label=Star&maxAge=86400)]
+
+* GTSAM - Smoothing and mapping (SAM) in robotics and vision [[github](http://github.com/borglab/gtsam) ![borglab/gtsam](https://img.shields.io/github/stars/borglab/gtsam.svg?style=flat&label=Star&maxAge=86400)]
+
+* Kintinuous - Real-time large scale dense visual SLAM system [[github](http://github.com/mp3guy/Kintinuous) ![Kintinuous](https://img.shields.io/github/stars/mp3guy/Kintinuous.svg?style=flat&label=Star&maxAge=86400)]
+
+* LSD-SLAM - Real-time monocular SLAM [[github](http://github.com/tum-vision/lsd_slam) ![lsdslam](https://img.shields.io/github/stars/tum-vision/lsd_slam.svg?style=flat&label=Star&maxAge=86400)]
+
+* ORB-SLAM2 - Real-time SLAM library for Monocular, Stereo and RGB-D cameras [[github](http://github.com/raulmur/ORB_SLAM2) ![ORB_SLAM2](https://img.shields.io/github/stars/raulmur/ORB_SLAM2.svg?style=flat&label=Star&maxAge=86400)]
+
+* RTAP-Map - RGB-D Graph SLAM approach based on a global Bayesian loop closure detector [[github](http://github.com/introlab/rtabmap) ![introlab/rtabmap](https://img.shields.io/github/stars/introlab/rtabmap.svg?style=flat&label=Star&maxAge=86400)]
+
+* SRBA - Solving SLAM/BA in relative coordinates with flexibility for different submapping strategies [[github](http://github.com/MRPT/srba) ![srba](https://img.shields.io/github/stars/MRPT/srba.svg?style=flat&label=Star&maxAge=86400)]
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
