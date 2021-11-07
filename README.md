@@ -135,7 +135,9 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * Control Toolbox - Open-Source C++ Library for Robotics, Optimal and Model Predictive Control [[github](https://github.com/ethz-adrl/control-toolbox) ![ethz-adrl/control-toolbox](https://img.shields.io/github/stars/ethz-adrl/control-toolbox.svg?style=flat&label=Star&maxAge=86400)]
 
 * Tesseract - A major planning framework for forward and inverse kinematics. [[github](https://github.com/tesseract-robotics/tesseract) ![Tesseract](https://img.shields.io/github/stars/tesseract-robotics/tesseract.svg?style=flat&label=Star&maxAge=86400)]
-*  
+
+* MRSL - A search-based planner for quadcoptors in obstacle cluttered environment. [[github](https://github.com/sikang/motion_primitive_library) ![MRSL](https://img.shields.io/github/stars/sikang/motion_primitive_library.svg?style=flat&label=Star&maxAge=86400)]
+ 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Graphics Engine/ Environments](#Robotics-Resources)
