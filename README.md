@@ -118,6 +118,24 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 
 * SIMOX - The aim of the lightweight platform independent C++ toolbox Simox is to provide a set of algorithms for 3D simulation of robot systems, sampling based motion planning and grasp planning.[[github](https://github.com/softbankrobotics-research/Simox) ![SIMOX](https://img.shields.io/github/stars/softbankrobotics-research/Simox.svg?style=flat&label=Star&maxAge=86400)]
 
+* AIKIDO - Solving robotic motion planning and decision making problems. [[github](https://github.com/personalrobotics/aikido) ![aikido](https://img.shields.io/github/stars/personalrobotics/aikido.svg?style=flat&label=Star&maxAge=86400)]
+
+* TOPP-RA - Time-parameterizing robot trajectories subject to kinematic and dynamic constraints [[github](https://github.com/hungpham2511/toppra) ![hungpham2511/toppra](https://img.shields.io/github/stars/hungpham2511/toppra.svg?style=flat&label=Star&maxAge=86400)]
+
+* The Kautham Project - A robot simulation toolkit for motion planning [[github](https://github.com/iocroblab/kautham) ![kautham](https://img.shields.io/github/stars/iocroblab/kautham.svg?style=flat&label=Star&maxAge=86400)]
+
+* ROS Behavior Tree - [[github](https://github.com/miccol/ROS-Behavior-Tree) ![miccol/ROS-Behavior-Tree](https://img.shields.io/github/stars/miccol/ROS-Behavior-Tree.svg?style=flat&label=Star&maxAge=86400)]
+
+* OCS2 - Efficient continuous and discrete time optimal control implementation [[bitbucket](https://bitbucket.org/leggedrobotics/ocs2/src/master/)]
+
+* GPMP2 - Gaussian Process Motion Planner 2 [[github](https://github.com/gtrll/gpmp2) ![gtrll/gpmp2](https://img.shields.io/github/stars/gtrll/gpmp2.svg?style=flat&label=Star&maxAge=86400)]
+
+* Crocoddyl - Optimal control library for robot control under contact sequence [[github](https://github.com/loco-3d/crocoddyl) ![loco-3d/crocoddyl](https://img.shields.io/github/stars/loco-3d/crocoddyl.svg?style=flat&label=Star&maxAge=86400)]
+
+* Control Toolbox - Open-Source C++ Library for Robotics, Optimal and Model Predictive Control [[github](https://github.com/ethz-adrl/control-toolbox) ![ethz-adrl/control-toolbox](https://img.shields.io/github/stars/ethz-adrl/control-toolbox.svg?style=flat&label=Star&maxAge=86400)]
+* 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## [Graphics Engine/ Environments](#Robotics-Resources)
 
 * OpenRave( Open Robotics Automation Virtual Environment) - it focuses on developing and testing motion planning algorithms for robotic applications. It is available in C++, Python. [Documentation](http://openrave.org/docs/latest_stable/)
