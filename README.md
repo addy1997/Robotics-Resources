@@ -96,6 +96,8 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 
 * SimpleCV - SimpleCV is an open source framework for building computer vision applications. With it, you get access to several high-powered computer vision libraries such as OpenCV – without having to first learn about bit depths, file formats, color spaces, buffer management, eigenvalues, or matrix versus bitmap storage. [[github](https://github.com/sightmachine/SimpleCV)![SimpleCV](https://img.shields.io/github/stars/sightmachine/SimpleCV.svg?style=flat&label=Star&maxAge=86400)]
 
+* ViSP - Visual Servoing Platform [[github](https://github.com/lagadic/visp) ![lagadic/visp](https://img.shields.io/github/stars/lagadic/visp.svg?style=flat&label=Star&maxAge=86400)]
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Robot Perception](#Robotics-Resources)
