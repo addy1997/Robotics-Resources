@@ -133,7 +133,9 @@ A curated list of libraries, softwares, simulators for robotics. Recently, I add
 * Crocoddyl - Optimal control library for robot control under contact sequence [[github](https://github.com/loco-3d/crocoddyl) ![loco-3d/crocoddyl](https://img.shields.io/github/stars/loco-3d/crocoddyl.svg?style=flat&label=Star&maxAge=86400)]
 
 * Control Toolbox - Open-Source C++ Library for Robotics, Optimal and Model Predictive Control [[github](https://github.com/ethz-adrl/control-toolbox) ![ethz-adrl/control-toolbox](https://img.shields.io/github/stars/ethz-adrl/control-toolbox.svg?style=flat&label=Star&maxAge=86400)]
-* 
+
+* Tesseract - A major planning framework for forward and inverse kinematics. [[github](https://github.com/tesseract-robotics/tesseract) ![Tesseract](https://img.shields.io/github/stars/tesseract-robotics/tesseract.svg?style=flat&label=Star&maxAge=86400)]
+*  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## [Graphics Engine/ Environments](#Robotics-Resources)
